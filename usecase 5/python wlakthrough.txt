@@ -1,0 +1,4 @@
+1. dependency
+ python -m pip install --upgrade pip
+
+2.  install dnspython and install it
