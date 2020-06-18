@@ -1,0 +1,71 @@
+_id,ISBN13,Name,Author,ModifierAuth ,Publisher,Language,Year,Category,Actype
+5edfcd051027ff78eca08665,9781984801252,Untamed,Glennon Doyle,None,The Dial Press,English,2020,Biographies & Memoirs,TRUE
+5edfcd051027ff78eca08666,9788437608341,As I Lay Dying,William Faulkner,None,GENERAL PRESS,Spanish,1930,Black Comedy,2
+5edfcd051027ff78eca08667,9789389716702,Absolute Surrender,Andrew Murray,None,Hendrickson Publishers,English,2005,Religion,TRUE
+5edfcd051027ff78eca08668,9789389716696,A Wrinkle in Time,Unknown,FALSE,Madeleine Lengle,English,1962,Fantasy,TRUE
+5edfcd051027ff78eca0866a,9789390213276,TWENTY THOUSAND LEAGUES UNDER THE SEA,JULES VERNE,FALSE,WILCO PUBLISHING HOUSE,English,FALSE,Novel,2
+5edfcd051027ff78eca0866b,9789390213269,THE OLD MAN AND THE SEA,ERNEST HEMINGWAY,FALSE,WILCO PUBLISHING HOUSE,English,2020,Novel,2
+5edfcd051027ff78eca0866c,9789390213252,THE ART OF WAR,SUN TZU,FALSE,WILCO PUBLISHING HOUSE,English,500,Stratagy ,TRUE
+5edfcd051027ff78eca0866d,9789390239672,SET (BBA) Entrance Exam,Mr. Rohit Manglik,FALSE,EduGorilla Community Private Limited,Hindi,2020,Commerce,2
+5edfcd051027ff78eca0866e,9789390213245,THE ADVENTURES OF SHERLOCK HOLMES,ARTHUR CONAN DOYLE,FALSE,WILCO PUBLISHING HOUSE,English,2020,FALSE,2
+5edfcd051027ff78eca0866f,9789390213238,GREAT EXPECTATIONS,CHARLES DICKENS,FALSE,WILCO PUBLISHING HOUSE,English,FALSE,History,TRUE
+5edfcd051027ff78eca08670,9789354074455,The Way I Think For...,Shrihas Ekbote,FALSE,eBookHouse Online,English,2020,Novel,TRUE
+5edfcd051027ff78eca08671,9789390213221,DIARY OF A YOUNG GIRL,ANNE FRANK,FALSE,WILCO PUBLISHING HOUSE,Dutch,1947,Biographies & Memoirs,TRUE
+5edfcd051027ff78eca08672,9789389648300,Spring Bouncing Back From Rejection,Ambi Parameswaran,FALSE,Westland Publications Private Limited,English,2020,Novel,TRUE
+5edfcd051027ff78eca08673,9789390000000,Writing Thesis & Research Papers,Dr. Mosam Sinha,None,DPS PUBLISHING HOUSE,English,2020,Science,2
+5edfcd051027ff78eca08674,9789390000000,Winning Job Interview,Dr. Mosam Sinha,None,DPS PUBLISHING HOUSE,English,2020,General,2
+5edfcd051027ff78eca08675,9789390000000,Business Correspondence,Dr. Mosam Sinha,None,DPS PUBLISHING HOUSE,English,2019,Business,TRUE
+5edfcd051027ff78eca08676,9789390000000,The Trial,Franz,None,General Press,English,1925,Novel,2
+5edfcd051027ff78eca08677,9789390000000,The Sound and the Fury,William Faulkner,None,General Press,English,1929,Comic,TRUE
+5edfcd051027ff78eca08678,9789390000000,The Seven Last Words,Fulton J. Sheen,None,General Press,English,2020,Comic,TRUE
+5edfcd051027ff78eca08679,9789390000000,The Odyssey,Homer,None,General Press,English,2019,History,2
+5edfcd051027ff78eca0867a,9789390000000,The Everlasting Man,G.K. Chesterton,None,General Press,English,1993,History,TRUE
+5edfcd051027ff78eca0867b,9789390000000,Man The Dwelling Place of God,AW Tozer,None,General Press,English,2019,Religion,TRUE
+5edfcd051027ff78eca0867c,9789390000000,Jail Diary and Other Writings,Bhagat Singh,None,General Press,English,2019,Biographies & Memoirs,2
+5edfcd051027ff78eca0867d,9789390000000,"How I Made 2,000,000 in the Stock Market",Nicolas Darvas,None,General Press,English,1959,Business,2
+5edfcd051027ff78eca0867e,9789390000000,Experiencing the Holy Spirit,Andrew Murray,None,General Press,English,2000,Religion,TRUE
+5edfcd051027ff78eca0867f,9789390000000,Crime and Punishment,Fyodor Dostoyevsky,None,General Press,English,2007,Crime,TRUE
+5edfcd051027ff78eca08680,9789390000000,Chanakya Neeti,Chanakya,None,General Press,English,2017,War,TRUE
+5edfcd051027ff78eca08681,9788194566601,A Scale to Measure Attitude towards Child Rights Among School Teachers : A Manual,Daniel Solomon,and Lilly Pushpam S,Edusys,English,2017,Education,TRUE
+5edfcd051027ff78eca08682,9789388833196,Digital Yug Aur Guru Nanak Ka Sahitya,Dr Smita Mishra,Dr Smita Mishra,Manjuli Prakashan,Hindi,2015,History,TRUE
+5edfcd051027ff78eca08683,9789388833189,Digital Yug Aur Guru Nanak Ka Sahitya 2,Dr Smita Mishra,Dr Smita Mishra,Manjuli Prakashan,Hindi,2015,History,TRUE
+5edfcd051027ff78eca08684,9789390197125,Antenna Theory Design,Devasis Pradhan,FALSE,Evincepub Publishing,English,2017,Science,TRUE
+5edfcd051027ff78eca08685,9789390197118,RF and Microwave Circuit Design,Devasis Pradhan,FALSE,Evincepub Publishing,English,2018,Science,TRUE
+5edfcd051027ff78eca08686,9789390239634,WBJEE Entrance Exam,Mr. Rohit Manglik,FALSE,EduGorilla Community Private Limited,English,2001,Education,TRUE
+5edfcd051027ff78eca08687,9789389921939,Direct Taxes Law & Practice - Hardbound,Dr. Vinod K. Singhania and Dr. Kapil Singhania,FALSE,TAXMANN PUBLICATIONS PVT. LTD.,English,2020,Law,TRUE
+5edfcd051027ff78eca08688,9789390239627,XAT (XAVIER APTITUDE TEST),Mr. Rohit Manglik,FALSE,EduGorilla Community Private Limited,English,2005,Education,2
+5edfcd051027ff78eca08689,9789390117499,SWAR MANJARI,VASUNDHRA GVS,FALSE,FanatiXx,Hindi,2008,Novel,TRUE
+5edfcd051027ff78eca0868a,9788194584797,Customer Management in Technology Marketing,Madhavi Garikaparthi,FALSE,IUP Publications (A Division of ICFAI Society),English,2020,Business,TRUE
+5edfcd051027ff78eca0868b,9789390239610,UPES Management Entrance Test,Mr. Rohit Manglik,FALSE,EduGorilla Community Private Limited,English,2020,Education,TRUE
+5edfcd051027ff78eca0868c,9789390030989,REFLECTION - Cases in MANAGEMENT,Dr. Rajesh Kumar Pandey,FALSE,Blue Rose Publishers,English,2018,Education,TRUE
+5edfcd051027ff78eca0868d,9789390030972,I still love you,Sunil Kumar,FALSE,Blue Rose Publishers,English,2018,Novel,2
+5edfcd051027ff78eca0868e,9789390030965,PAPA,Jiganshu Sharma,FALSE,Blue Rose Publishers,English,2017,Novel,TRUE
+5edfcd051027ff78eca0868f,9788194556459,Haasy Vyangy rachana,Prof. Jaikant Tiwary,FALSE,SANKALP PUBLICATION,Hindi,2016,Comedy,TRUE
+5edfcd051027ff78eca08690,9789389858624,Koik Smit,Vinesh Antani,FALSE,R R Sheth & Co Pvt Ltd,Gujarati,2016,Comedy,TRUE
+5edfcd051027ff78eca08691,9789390030958,AFSA - The mermaid queen,Adithya Iyer,FALSE,Blue Rose Publishers,English,2002,Fantasy,2
+5edfcd051027ff78eca08692,9788194584780,Market Analysis and Marketing Strategies,"Sunny Bose, Editor",FALSE,IUP Publications (A Division of ICFAI Society),English,2002,Business,TRUE
+5edfcd051027ff78eca08693,9789390239603,Territorial Army Officers,Mr. Rohit Manglik,FALSE,EduGorilla Community Private Limited,English,2020,War,TRUE
+5edfcd051027ff78eca08694,9789390110209,HOW TO WIN FRIENDS AND INFLUENCE PEOPLE,DALE CARNEGLE,FALSE,Swaranjali Publication,English,2003,Novel,TRUE
+5edfcd051027ff78eca08695,9789390030941,World of Words,Yogesh Acharya,FALSE,Blue Rose Publishers,English,2007,Comic,TRUE
+5edfcd051027ff78eca08696,9783833234507,Star Wars: Ahsoka,Emily Kate Johnston�,FALSE,Panini Verlags GmbH,German,2017,Fantasy,2
+5edfcd051027ff78eca08697,9780735231917,the afterward,Emily Kate Johnston�,None,Dutton Books for Young Readers�,English,2019,Comic,2
+5edfcd051027ff78eca08698,9789389831757,Achapali Baatan,Mohan Puri,FALSE,Bodhi Prakashan,Rajasthani,FALSE,Novel,TRUE
+5edfcd051027ff78eca08699,9789390110155,KUCH KHAS LAMHE LAMHE JINDAGI KE,KARAN KOSHAL,FALSE,Swaranjali Publication,Hindi,FALSE,Novel,TRUE
+5edfcd051027ff78eca0869a,9789354073441,Precedent,Parag Agrawal,FALSE,eBookHouse Online,English,FALSE,Novel,TRUE
+5edfcd051027ff78eca0869b,9789390110148,POETS BEVY,ANANDARUPA,FALSE,Swaranjali Publication,English,FALSE,Novel,TRUE
+5edfcd051027ff78eca0869c,9789353949518,"Intro to Python for Computer Science and Data Science: Learning to Program with AI, Big Data and The Cloud, 1/e","Paul J. Deitel , Harvey Deitel",FALSE,Pearson India Education Services Pvt Ltd,English,FALSE,Computer Science,TRUE
+5edfcd051027ff78eca0869d,9789389528107,Shivalal Digdarshika Ganit : Class 12,Madhur Gupta,FALSE,SHIVA LAL AGARWALA AND COMPANY,Hindi,FALSE,Education,2
+5edfcd051027ff78eca0869e,9789390110131,MUSAFIR TUM YA MAIN,MAHAK JAGGA,FALSE,Swaranjali Publication,Hindi,FALSE,Novel,TRUE
+5edfcd051027ff78eca0869f,9788194574538,Deh Par Din Ki Bhasha,Moti Lal,FALSE,Shubhda Books,Hindi,FALSE,Novel,2
+5edfcd051027ff78eca086a0,9788194134954,Mahatma Gandhi evam Dr. Ambedkar Ek tulnatmak adhyyan,Vikas Awasthi,FALSE,SOCIAL RESEARCH FOUNDATION,Hindi,FALSE,History,2
+5edfcd051027ff78eca086a1,9789354073182,Thavaasmi,R SRIRAMA CHAKRADHAR,FALSE,eBookHouse Online,English,FALSE,Novel,2
+5edfcd051027ff78eca086a2,9789389528091,Shivalal Digdarshika Samajshastra : Class 12,Dr Alka Gupta,FALSE,SHIVA LAL AGARWALA AND COMPANY,Hindi,FALSE,Education,TRUE
+5edfcd051027ff78eca086a3,9789389716689,12 Years A Slave,Solomon Northup,None,General press,English,2014,Novel,TRUE
+5edfcd051027ff78eca086a4,9789390109852,Financial Accounting,B Mariyappa and Others,None,Himalaya Publishing House Pvt Ltd,English,2011,Education,2
+5edfcd051027ff78eca086a5,9789390109821,Corporate Laws,S N Maheshwari ,None,Himalaya Publishing House Pvt Ltd,English,2012,Law,2
+5edfcd051027ff78eca086a6,9789390239726,B.Sc Agriculture Entrance Exam,Mr. Rohit Manglik,None,EduGorilla Community Private Limited,English,2019,Science,2
+5edfcd051027ff78eca086a7,9789390239719,ESIC UDC Phase II,Mr. Rohit Manglik,None,EduGorilla Community Private Limited,English,2019,Education,2
+5edfcd051027ff78eca086a8,9789390239702,ESIC UDC Phase I,Mr. Rohit Manglik,None,EduGorilla Community Private Limited,English,2019,Education,2
+5edfcd051027ff78eca086a9,9789390109814,Management Principles and Applications,Jiwan Jhunjhunwala,None,Himalaya Publishing House Pvt Ltd,English,2018,Business,TRUE
+5edfcd051027ff78eca086aa,9789390109807,Goods and Services Tax GST Concepts and Practices,Pratap Chandra Sahoo�,None,Himalaya Publishing House Pvt Ltd,English,2018,Business,2
+5edfcd051027ff78eca086ab,9789390109784,Business Law,Biswa Mohana Jena,None,Himalaya Publishing House Pvt Ltd,English,2019,Business,2
